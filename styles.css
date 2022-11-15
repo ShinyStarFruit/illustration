@@ -7,6 +7,11 @@
   color: White;
 }
 
+body{
+background-image: url("space.jpeg");
+background-size: cover;
+}
+
 h1{
   color: #928520;
 }
